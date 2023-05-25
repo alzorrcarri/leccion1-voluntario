@@ -79,7 +79,7 @@ int main (void)
 
    /* ALGORTIMO DE VERLET */
 
-   for ( k = 0; k < 300000; k++)
+   for ( k = 0; k < 150000; k++)
    {
       /* Escribimos las posiciones de las partículas, el módulo de la velocidad y la energía del sistema en los ficheros correspondientes antes de pasar al siguiente tiempo. */
       for ( i = 0; i <= n-1; i++)
