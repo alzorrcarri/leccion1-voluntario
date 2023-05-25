@@ -29,7 +29,7 @@ int main (void)
 
     //fichero_particulas.open("/Users/alzorrcarri/Documents/cphys/leccion1-voluntario/particles_positions_data.dat");
     //fichero_energia.open("/Users/alzorrcarri/Documents/cphys/leccion1-voluntario/energia_tiempo.dat");
-    fichero_desviacion.open("/Users/alzorrcarri/Documents/cphys/leccion1-voluntario/desviacion_sinincr.dat");
+    fichero_desviacion.open("/home/cphys-alvaro.zorrillacarriqui/Documentos/leccion1-voluntario/desviacion_conincr.dat");
 
 
     /* Damos valores iniciales a las posiciones dentro de la cuadrícula 4x4 */
