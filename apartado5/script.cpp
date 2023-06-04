@@ -26,7 +26,7 @@ int main (void)
 
     srand(time(NULL));
 
-    fichero_particulas.open("/Users/alzorrcarri/Documents/cphys/leccion1-voluntario/particles_positions_data.dat");
+    fichero_particulas.open("/home/cphys-alvaro.zorrillacarriqui/Documentos/leccion1-voluntario/apartado5/particles_positions_data.dat");
 
 
     /* Situamos las partículas en red cuadrada dentro de la caja 4x4 salvo una pequeña desviación en una dirección aleatoria. */
