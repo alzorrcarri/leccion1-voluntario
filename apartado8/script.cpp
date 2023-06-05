@@ -28,7 +28,7 @@ int main (void)
 
     srand(time(NULL));
 
-    fichero_densidad.open("/Users/alzorrcarri/Documents/cphys/leccion1-voluntario/apartado8/densidad_gas.dat");
+    fichero_densidad.open("/home/cphys-alvaro.zorrillacarriqui/Documentos/leccion1-voluntario/apartado8/densidad_gas.dat");
 
 
     /* Damos valores iniciales a las posiciones de las 16 partículas dentro de la cuadrícula 4x4 */

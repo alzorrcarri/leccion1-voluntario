@@ -32,9 +32,9 @@ int main (void)
     srand(time(NULL));
 
     //fichero_particulas.open("/Users/alzorrcarri/Documents/cphys/leccion1-voluntario/particles_positions_data.dat");
-    fichero_energia.open("/Users/alzorrcarri/Documents/cphys/leccion1-voluntario/presion_tiempo.dat");
+    fichero_energia.open("/home/cphys-alvaro.zorrillacarriqui/Documentos/leccion1-voluntario/apartado3/presion_tiempo.dat");
     //fichero_velocidades.open("/Users/alzorrcarri/Documents/cphys/leccion1-voluntario/velocity_time.dat");
-    fichero_resultados.open("/Users/alzorrcarri/Documents/cphys/leccion1-voluntario/resultados.dat");
+    fichero_resultados.open("/home/cphys-alvaro.zorrillacarriqui/Documentos/leccion1-voluntario/apartado3/resultados.dat");
 
 
     /* Damos valores iniciales a las posiciones y velocidades de las partículas de forma aleatoria. Las posiciones iniciales

@@ -27,7 +27,7 @@ int main (void)
 
     srand(time(NULL));
 
-    fichero_desviacion.open("/Users/alzorrcarri/Documents/cphys/leccion1-voluntario/desviacion_conincr.dat");
+    fichero_desviacion.open("/home/cphys-alvaro.zorrillacarriqui/Documentos/leccion1-voluntario/apartado7/desviacion_conincr.dat");
 
 
     /* Damos valores iniciales a las posiciones dentro de la cuadrícula 4x4 */

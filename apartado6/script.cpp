@@ -27,8 +27,8 @@ int main (void)
 
     srand(time(NULL));
 
-    fichero_particulas.open("/Users/alzorrcarri/Documents/cphys/leccion1-voluntario/apartado6/particles_positions_data.dat");
-    fichero_desviacion.open("/Users/alzorrcarri/Documents/cphys/leccion1-voluntario/apartado6/desviacion_conincr.dat");
+    fichero_particulas.open("/home/cphys-alvaro.zorrillacarriqui/Documentos/leccion1-voluntario/apartado6/particles_positions_data.dat");
+    fichero_desviacion.open("/home/cphys-alvaro.zorrillacarriqui/Documentos/leccion1-voluntario/apartado6/desviacion_conincr.dat");
 
 
     /* Damos valores iniciales a las posiciones dentro de la cuadrícula 4x4 */
