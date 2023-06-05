@@ -1,6 +1,7 @@
 /* SIMULACIÓN DE LA DINÁMICA MOLECULAR DE UN GAS CON UN POTENCIAL DE LENNARD-JONES */
 /* EJERCICIO VOLUNTARIO 1 LECCIÓN 1 SISTEMA SOLAR */
 
+
 #include <iostream>
 #include <cmath>
 #include <fstream>
