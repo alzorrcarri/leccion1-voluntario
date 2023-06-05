@@ -8,6 +8,7 @@
 #include <time.h>
 
 
+
 using namespace std;
 
 /* Definimos unas funciones necesarias en nuestro programa */
